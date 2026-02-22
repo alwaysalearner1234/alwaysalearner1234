@@ -1,105 +1,136 @@
-👋 Hi, I’m Duddekunta Lidiya
+𝐋𝐢𝐝𝐢𝐲𝐚
+𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 | 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫
 
-🎓 Student | 💻 Aspiring Software Developer | 🌱 Open-Source Learner
+📍 India
+📊 Building Data-Driven Solutions for Real-World Problems
 
-I am a dedicated and curious learner with a growing interest in software development and open-source collaboration. I enjoy understanding how systems work, improving documentation, and contributing meaningful changes to real-world projects while strengthening my technical foundations.
+𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑺𝒖𝒎𝒎𝒂𝒓𝒚
 
-🧾 About Me
+I am an aspiring Data Scientist with hands-on experience in:
 
-Passionate about software development and problem solving
+End-to-end Machine Learning workflows
 
-Actively learning frontend technologies and core computer science concepts
+Data preprocessing & feature engineering
 
-Interested in open-source contributions, especially documentation and beginner-friendly issues
+Exploratory Data Analysis (EDA)
 
-Believe in writing clear, maintainable code and easy-to-understand documentation
+Predictive modeling & evaluation
 
-Consistent learner who values long-term growth over shortcuts
+Technical documentation & open-source collaboration
 
-🛠️ Technical Skills
-Programming Languages
+I focus on solving practical problems in urban systems, healthcare analytics, and business intelligence using structured data pipelines and interpretable models.
+
+⚙️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
+🐍 Programming & Querying
 
 Python
 
-JavaScript
+SQL (learning & practice)
 
-HTML
+JavaScript (foundational)
 
-CSS
+📊 Data Science Stack
 
-Tools & Technologies
+Pandas
 
-React (basic)
+NumPy
 
-Webpack
+Scikit-Learn
 
-Git & GitHub
+Matplotlib
 
-Node.js (basic understanding)
+Seaborn
 
-Core Knowledge
+Jupyter Notebook
 
-Data Structures & Algorithms (learning & practice)
+Streamlit
 
-Module bundling and loaders
+🧠 Machine Learning Knowledge
 
-Version control workflows (branches, PRs, reviews)
+Supervised Learning (Classification & Regression)
 
-Documentation best practices
+Random Forest & Ensemble Methods
 
-🌍 Open-Source Contributions
+Feature Engineering Techniques
 
-Contributed to open-source projects by improving documentation clarity
+Model Validation (Cross-Validation, Train/Test Split)
 
-Worked with pull requests, reviews, and maintainer feedback
+Evaluation Metrics (Accuracy, Precision, Recall, F1-Score)
 
-Experience understanding large codebases and documentation structures
+🔬 𝐒𝐢𝐠𝐧𝐚𝐭𝐮𝐫𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+🚦 Traffic Congestion Predictor
 
-Comfortable responding to review comments and refining changes
+Developed a predictive model to analyze traffic flow patterns and forecast congestion levels using structured datasets.
+✔ Data cleaning
+✔ Feature extraction
+✔ Model training & evaluation
 
-Interested in projects related to frontend tooling, documentation, and learning resources
+🌊 Sonar Object Classification
 
-I value open source as a place to learn collaboration, communication, and real-world development practices.
+Built a Random Forest classifier to distinguish sonar signals.
+✔ Feature scaling
+✔ Hyperparameter tuning
+✔ Performance analysis
 
-📌 What I’m Currently Working On
+📊 Marketing Campaign Analysis Dashboard
 
-Improving understanding of Webpack and modern JavaScript tooling
+Created an analytical dashboard to evaluate campaign performance using business KPIs and visual insights.
 
-Strengthening DSA fundamentals through regular practice
+🌍 Climate Prediction
 
-Exploring more open-source contribution opportunities
+Explored predictive modeling techniques to analyze environmental and climate-related datasets.
 
-Building small projects to apply concepts practically
+🌍 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐄𝐧𝐠𝐚𝐠𝐞𝐦𝐞𝐧𝐭
 
-📊 GitHub Activity
+Exposure to large-scale repositories such as:
 
-Regular commits focused on learning and improvement
+webpack
 
-Contributions include documentation updates and code exploration
+Rocket.Chat
 
-Actively using GitHub issues, pull requests, and discussions to learn collaboration
+matrix-org
 
-(GitHub activity and stats reflect ongoing learning and consistency.)
+tesseract-ocr
 
-🤝 Collaboration & Interests
+oppia
 
-Open to beginner-friendly collaborations
+Through open-source, I’ve developed:
 
-Interested in learning from maintainers and experienced developers
+Codebase navigation ability
 
-Comfortable working in teams and following contribution guidelines
+Structured pull request writing
 
-Actively improving communication through technical writing and PR discussions
+Collaboration with maintainers
 
-📫 Contact
+Technical documentation clarity
 
-GitHub: @alwaysalearner1234
+📈 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
 
-Open to learning opportunities, internships, and collaboration
+Advanced model evaluation strategies
 
-📘 Personal Principle
+Data pipeline optimization
 
-Consistent learning, clear communication, and clean code lead to meaningful software.
+Deploying ML apps with Streamlit
 
+Strengthening DSA for technical interviews
 
+Contributing more meaningfully to production-grade systems
 
+📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alwaysalearner1234&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysalearner1234&layout=compact)
+🎯 𝐂𝐚𝐫𝐞𝐞𝐫 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
+
+To secure a Data Science Internship where I can:
+
+Apply statistical learning techniques
+
+Work on production-level datasets
+
+Collaborate with engineering teams
+
+Build scalable and interpretable ML systems
+
+📘 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞
+
+“Without data, you’re just another person with an opinion.
