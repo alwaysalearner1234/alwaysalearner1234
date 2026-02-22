@@ -3,7 +3,7 @@
 # Hey there, I'm Lidiya 👋
 ### Turning raw data into real decisions · Aspiring Data Scientist · ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Data+Scientist+in+the+making+%F0%9F%8C±;Passionate+about+Machine+Learning+%F0%9F%A4%96;Transforming+data+into+insights+%F0%9F%93%8A;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+
 
 </div>
 
