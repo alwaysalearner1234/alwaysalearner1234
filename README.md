@@ -1,54 +1,121 @@
-𝐋𝐢𝐝𝐢𝐲𝐚
-𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
-𝐀𝐛𝐨𝐮𝐭
+<div align="center">
 
-Aspiring Data Scientist focused on building data-driven solutions using structured machine learning workflows.
+# Hey there, I'm Lidiya 👋
+### Turning raw data into real decisions · Aspiring Data Scientist · ML Enthusiast
 
-Interested in predictive modeling, analytics, and solving real-world problems through interpretable and scalable systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Data+Scientist+in+the+making+%F0%9F%8C±;Passionate+about+Machine+Learning+%F0%9F%A4%96;Transforming+data+into+insights+%F0%9F%93%8A;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
-𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
+</div>
 
-Languages
-Python • SQL (learning) • JavaScript (basic)
+---
 
-Data Science
-Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn • Streamlit
+## 🧠 About Me
 
-Core Concepts
-Classification • Regression • Random Forest • Feature Engineering • Model Evaluation
+```python
+lidiya = {
+    "role"     : "Aspiring Data Scientist",
+    "focus"    : ["Machine Learning", "Predictive Modeling", "Data Analytics"],
+    "mantra"   : "Every dataset has a story — I help tell it.",
+    "currently": "Hunting for Data Science internships 🎯",
+    "fun_fact" : "I once built a model to predict traffic... then got stuck in it 🚗"
+}
+```
 
-𝐒𝐞𝐥𝐞𝐜𝐭𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+---
 
-Traffic Congestion Predictor
-Predictive model analyzing traffic patterns using structured datasets.
+## 🛠️ Tech Stack & Skills
 
-Sonar Object Classification
-Random Forest classifier with preprocessing, feature scaling, and evaluation.
+**Languages**
 
-Marketing Campaign Analysis Dashboard
-Performance analytics dashboard using business KPIs.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Climate Prediction
-Machine learning exploration of environmental datasets.
+**Data Science & ML**
 
-𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐄𝐱𝐩𝐨𝐬𝐮𝐫𝐞
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-Explored large-scale repositories including:
+**Tools & Platforms**
 
-webpack
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Rocket.Chat
+---
 
-matrix-org
+## 🚀 Featured Projects
 
-tesseract-ocr
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🚦 **Traffic Congestion Predictor** | Predictive model analyzing urban traffic patterns with feature engineering | `Python` `Random Forest` `Scikit-Learn` |
+| 🔊 **Sonar Object Classification** | Binary classifier distinguishing objects from sonar signals | `Python` `Random Forest` `Feature Scaling` |
+| 📊 **Marketing Campaign Dashboard** | Interactive dashboard visualizing campaign KPIs and business metrics | `Python` `Streamlit` `Seaborn` |
+| 🌍 **Climate Prediction Model** | ML-powered forecasting applied to environmental datasets | `Python` `Scikit-Learn` `Matplotlib` |
 
-oppia
+---
 
-Gained experience in understanding production-level codebases and collaborative workflows.
+## 📈 GitHub Stats
 
-𝐂𝐚𝐫𝐞𝐞𝐫 𝐅𝐨𝐜𝐮𝐬
+<div align="center">
 
-Seeking Data Science internship opportunities to apply machine learning techniques to real-world datasets and contribute to impactful systems.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Data over assumptions. Learning over shortcuts.
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 📐 **Advanced SQL** — window functions, query optimization
+- 🧬 **Deep Learning fundamentals** — neural networks, backpropagation
+- ☁️ **ML deployment** — taking models from notebook to production
+- 🤝 **Open Source contribution** — deeper dives into `webpack`, `oppia`, and more
+
+---
+
+## 🌐 Open Source Exploration
+
+I've navigated and studied codebases across a variety of large open-source projects to understand real-world engineering and collaboration:
+
+`webpack` · `Rocket.Chat` · `matrix-org` · `tesseract-ocr` · `oppia`
+
+---
+
+## 💬 A Quote I Live By
+
+> *"Without data, you're just another person with an opinion."*
+> — W. Edwards Deming
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-lidiya-68388a331/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duddekuntalidiya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alwaysalearner1234)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alwaysalearner1234)
+
+*⭐ If you find my work interesting, consider giving a star — it means a lot!*
+
+</div>
