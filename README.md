@@ -1,88 +1,39 @@
 𝐋𝐢𝐝𝐢𝐲𝐚
-𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 | 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫
+𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 | 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
+𝐀𝐛𝐨𝐮𝐭
 
-📍 India
-📊 Building Data-Driven Solutions for Real-World Problems
+Aspiring Data Scientist focused on building data-driven solutions using structured machine learning workflows.
 
-𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑺𝒖𝒎𝒎𝒂𝒓𝒚
+Interested in predictive modeling, analytics, and solving real-world problems through interpretable and scalable systems.
 
-I am an aspiring Data Scientist with hands-on experience in:
+𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
-End-to-end Machine Learning workflows
+Languages
+Python • SQL (learning) • JavaScript (basic)
 
-Data preprocessing & feature engineering
+Data Science
+Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn • Streamlit
 
-Exploratory Data Analysis (EDA)
+Core Concepts
+Classification • Regression • Random Forest • Feature Engineering • Model Evaluation
 
-Predictive modeling & evaluation
+𝐒𝐞𝐥𝐞𝐜𝐭𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-Technical documentation & open-source collaboration
+Traffic Congestion Predictor
+Predictive model analyzing traffic patterns using structured datasets.
 
-I focus on solving practical problems in urban systems, healthcare analytics, and business intelligence using structured data pipelines and interpretable models.
+Sonar Object Classification
+Random Forest classifier with preprocessing, feature scaling, and evaluation.
 
-⚙️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞
-🐍 Programming & Querying
+Marketing Campaign Analysis Dashboard
+Performance analytics dashboard using business KPIs.
 
-Python
+Climate Prediction
+Machine learning exploration of environmental datasets.
 
-SQL (learning & practice)
+𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐄𝐱𝐩𝐨𝐬𝐮𝐫𝐞
 
-JavaScript (foundational)
-
-📊 Data Science Stack
-
-Pandas
-
-NumPy
-
-Scikit-Learn
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
-
-Streamlit
-
-🧠 Machine Learning Knowledge
-
-Supervised Learning (Classification & Regression)
-
-Random Forest & Ensemble Methods
-
-Feature Engineering Techniques
-
-Model Validation (Cross-Validation, Train/Test Split)
-
-Evaluation Metrics (Accuracy, Precision, Recall, F1-Score)
-
-🔬 𝐒𝐢𝐠𝐧𝐚𝐭𝐮𝐫𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
-🚦 Traffic Congestion Predictor
-
-Developed a predictive model to analyze traffic flow patterns and forecast congestion levels using structured datasets.
-✔ Data cleaning
-✔ Feature extraction
-✔ Model training & evaluation
-
-🌊 Sonar Object Classification
-
-Built a Random Forest classifier to distinguish sonar signals.
-✔ Feature scaling
-✔ Hyperparameter tuning
-✔ Performance analysis
-
-📊 Marketing Campaign Analysis Dashboard
-
-Created an analytical dashboard to evaluate campaign performance using business KPIs and visual insights.
-
-🌍 Climate Prediction
-
-Explored predictive modeling techniques to analyze environmental and climate-related datasets.
-
-🌍 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐄𝐧𝐠𝐚𝐠𝐞𝐦𝐞𝐧𝐭
-
-Exposure to large-scale repositories such as:
+Explored large-scale repositories including:
 
 webpack
 
@@ -94,43 +45,10 @@ tesseract-ocr
 
 oppia
 
-Through open-source, I’ve developed:
+Gained experience in understanding production-level codebases and collaborative workflows.
 
-Codebase navigation ability
+𝐂𝐚𝐫𝐞𝐞𝐫 𝐅𝐨𝐜𝐮𝐬
 
-Structured pull request writing
+Seeking Data Science internship opportunities to apply machine learning techniques to real-world datasets and contribute to impactful systems.
 
-Collaboration with maintainers
-
-Technical documentation clarity
-
-📈 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
-
-Advanced model evaluation strategies
-
-Data pipeline optimization
-
-Deploying ML apps with Streamlit
-
-Strengthening DSA for technical interviews
-
-Contributing more meaningfully to production-grade systems
-
-📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alwaysalearner1234&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysalearner1234&layout=compact)
-🎯 𝐂𝐚𝐫𝐞𝐞𝐫 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
-
-To secure a Data Science Internship where I can:
-
-Apply statistical learning techniques
-
-Work on production-level datasets
-
-Collaborate with engineering teams
-
-Build scalable and interpretable ML systems
-
-📘 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐥𝐞
-
-“Without data, you’re just another person with an opinion.
+Data over assumptions. Learning over shortcuts.
