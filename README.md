@@ -63,14 +63,15 @@ lidiya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+![Contributions Last Year](https://img.shields.io/badge/Contributions%20Last%20Year-202-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Contributions This Year](https://img.shields.io/badge/Contributions%20This%20Year-50-10B981?style=for-the-badge&logo=github&logoColor=white)
+![Highest Streak](https://img.shields.io/badge/Highest%20Streak-2%20Days-F59E0B?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysalearner1234&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
