@@ -1,29 +1,66 @@
 <div align="center">
 
-# Hey there, I'm Lidiya 👋
-### Turning raw data into real decisions · Aspiring Data Scientist · ML Enthusiast
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lidiya%20D&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=20"/>
 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;365%2B+Days+LeetCode+Streak+%F0%9F%94%A5+%7C+593%2B+Problems+Solved;Aspiring+Data+Scientist+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=alwaysalearner1234&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/d-lidiya-68388a331/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:duddekuntalidiya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/alwaysalearner1234">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 </div>
 
----
+<br/>
 
 ## 🧠 About Me
 
 ```python
-lidiya = {
-    "role"     : "Aspiring Data Scientist",
-    "focus"    : ["Machine Learning", "Predictive Modeling", "Data Analytics"],
-    "mantra"   : "Every dataset has a story — I help tell it.",
-    "currently": "Hunting for Data Science internships 🎯",
-    "fun_fact" : "I once built a model to predict traffic... then got stuck in it 🚗"
-}
+class Lidiya:
+    name       = "Lidiya D"
+    role       = ["Aspiring Data Scientist", "ML Enthusiast", "Problem Solver", "Open Source Contributor"]
+    education  = "B.Tech AI & Data Science @ Dhanalakshmi Srinivasan University (2028)"
+    experience = ["Data Science Intern @ InternsForge", "HR Intern @ Noodiyos",
+                  "Campus Ambassador @ E-Cell IIT Bombay"]
+    focus      = ["Machine Learning", "Predictive Modeling", "Data Analytics", "DSA"]
+    dsa        = {"leetcode_streak": "365+ Days 🔥", "problems_solved": "593+", "mindset": "consistent"}
+    mantra     = "Every dataset has a story — I help tell it."
+    open_to    = "Data Science / ML / Software Internships 🎯"
+    fun_fact   = "I once built a model to predict traffic... then got stuck in it 🚗"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something meaningful with data.")
 ```
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
 
 ## 🛠️ Tech Stack & Skills
+
+<div align="center">
 
 **Languages**
 
@@ -31,7 +68,7 @@ lidiya = {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Data Science & ML**
+**Data Science & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -45,78 +82,226 @@ lidiya = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
+
+## 🏆 LeetCode & DSA Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-593%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Streak-365%2B%20Days%20%F0%9F%94%A5-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DSA-Consistently%20Grinding-6E57F7?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+</div>
+
+<br/>
+
+> **593+ problems solved** across arrays, dynamic programming, graphs, trees, backtracking, and binary search — with a **365+ day streak badge** that proves consistency over motivation. For me, DSA isn't just interview prep — it's a mindset of structured thinking I bring to every ML pipeline and data problem I tackle.
+
+| Category | Approach |
+|----------|----------|
+| 🔁 **Consistency** | Solved problems daily for 365+ consecutive days |
+| 🧩 **Problem Domains** | Arrays, Trees, DP, Graphs, Backtracking, Binary Search |
+| 💡 **Mindset** | Pattern recognition + optimization thinking |
+| 🎯 **Goal** | Bridge strong algorithmic foundations with ML engineering |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
+
+## 💼 Professional Experience
+
+### 📊 Data Science Intern — *InternsForge*
+
+- Applied end-to-end data science workflows including EDA, feature engineering, and model building
+- Worked with real-world datasets to deliver predictive insights and business-facing visualizations
+- Strengthened skills in Scikit-Learn, Pandas, and Streamlit for production-style deliverables
+
+<br/>
+
+### 👥 HR Intern — *Noodiyos*
+
+- Participated in **talent acquisition** processes including job posting, resume screening, and shortlisting
+- Conducted **candidate screening** rounds, evaluating technical and cultural fit for open roles
+- Gained hands-on exposure to **HR operations**: onboarding workflows, documentation, and coordination
+- Sharpened **communication and people management** skills through cross-functional collaboration
+
+<br/>
+
+### 🚀 Campus Ambassador — *E-Cell IIT Bombay*
+
+- Represented one of India's premier entrepreneurship cells at university level
+- Drove awareness of startup and innovation events among the student community
+- Built professional networking skills and event coordination experience
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🚦 **Traffic Congestion Predictor** | Predictive model analyzing urban traffic patterns with feature engineering | `Python` `Random Forest` `Scikit-Learn` |
-| 🔊 **Sonar Object Classification** | Binary classifier distinguishing objects from sonar signals | `Python` `Random Forest` `Feature Scaling` |
-| 📊 **Marketing Campaign Dashboard** | Interactive dashboard visualizing campaign KPIs and business metrics | `Python` `Streamlit` `Seaborn` |
-| 🌍 **Climate Prediction Model** | ML-powered forecasting applied to environmental datasets | `Python` `Scikit-Learn` `Matplotlib` |
+<div align="center">
 
----
+| # | Project | Description | Stack | Highlights |
+|---|---------|-------------|-------|------------|
+| 🚦 | **Traffic Congestion Predictor** | Predictive model analyzing urban traffic patterns with deep feature engineering | `Python` `Random Forest` `Scikit-Learn` | Real-world dataset, EDA pipeline |
+| 🔊 | **Sonar Object Classification** | High-accuracy binary classifier distinguishing metallic objects from sonar signals | `Python` `Random Forest` `Feature Scaling` | Feature selection, model tuning |
+| 📊 | **Marketing Campaign Dashboard** | Interactive business intelligence dashboard visualizing KPIs and campaign performance | `Python` `Streamlit` `Seaborn` | Live filters, stakeholder-ready UI |
+| 🌍 | **Climate Prediction Model** | ML-powered environmental forecasting using historical climate data | `Python` `Scikit-Learn` `Matplotlib` | Time-series analysis, regression |
 
-## 📈 GitHub Stats
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
+
+## 🌐 Open Source Contributions
+
+> I believe in learning from the best by reading, navigating, and contributing to world-class codebases. Open source has sharpened my engineering instincts and taught me how real production software is built and maintained.
 
 <div align="center">
 
-![Contributions Last Year](https://img.shields.io/badge/Contributions%20Last%20Year-202-2563EB?style=for-the-badge&logo=github&logoColor=white)
-![Contributions This Year](https://img.shields.io/badge/Contributions%20This%20Year-50-10B981?style=for-the-badge&logo=github&logoColor=white)
-![Highest Streak](https://img.shields.io/badge/Highest%20Streak-2%20Days-F59E0B?style=for-the-badge&logo=github&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack-Explored-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-Explored-F5455C?style=for-the-badge&logo=rocket-dot-chat&logoColor=white)
+![Matrix](https://img.shields.io/badge/matrix--org-Explored-000000?style=for-the-badge&logo=matrix&logoColor=white)
+![Tesseract](https://img.shields.io/badge/tesseract--ocr-Explored-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Oppia](https://img.shields.io/badge/oppia-Explored-00BCD4?style=for-the-badge&logo=oppia&logoColor=white)
+
+</div>
+
+<br/>
+
+| Repository | Domain | What I Explored |
+|------------|--------|-----------------|
+| **webpack** | Build tooling | Module bundling internals, plugin architecture, JS dependency graphs |
+| **Rocket.Chat** | Real-time communication | Full-stack architecture, WebSocket handling, scalable messaging patterns |
+| **matrix-org** | Decentralized comms | Federation protocol design, event DAGs, distributed system concepts |
+| **tesseract-ocr** | Computer vision / OCR | Image preprocessing pipelines, ML integration in C++ systems |
+| **oppia** | EdTech / Python + Angular | Contributor workflows, interactive content design, test-driven dev |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alwaysalearner1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysalearner1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E57F7&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysalearner1234&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alwaysalearner1234&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E57F7&ring=6E57F7&fire=FF6B35&currStreakLabel=6E57F7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alwaysalearner1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysalearner1234/alwaysalearner1234/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alwaysalearner1234/alwaysalearner1234/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alwaysalearner1234/alwaysalearner1234/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
 
 ## 🌱 Currently Learning
 
-- 📐 **Advanced SQL** — window functions, query optimization
-- 🧬 **Deep Learning fundamentals** — neural networks, backpropagation
-- ☁️ **ML deployment** — taking models from notebook to production
-- 🤝 **Open Source contribution** — deeper dives into `webpack`, `oppia`, and more
+<div align="center">
 
----
+| Area | What I'm Building |
+|------|------------------|
+| 📐 **Advanced SQL** | Window functions, CTEs, query optimization for large datasets |
+| 🧬 **Deep Learning** | Neural networks, backpropagation, CNNs from first principles |
+| ☁️ **ML Deployment** | Taking models from notebook to production with APIs & cloud |
+| 🤝 **Open Source** | Deeper dives into `oppia`, `webpack`, and contributor pipelines |
 
-## 🌐 Open Source Exploration
+</div>
 
-I've navigated and studied codebases across a variety of large open-source projects to understand real-world engineering and collaboration:
+<br/>
 
-`webpack` · `Rocket.Chat` · `matrix-org` · `tesseract-ocr` · `oppia`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
----
+<br/>
 
 ## 💬 A Quote I Live By
+
+<div align="center">
 
 > *"Without data, you're just another person with an opinion."*
 > — W. Edwards Deming
 
----
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-lidiya-68388a331/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duddekuntalidiya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alwaysalearner1234)
+<a href="https://www.linkedin.com/in/d-lidiya-68388a331/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:duddekuntalidiya@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/alwaysalearner1234">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
----
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alwaysalearner1234)
+*⭐ If you find my work interesting, a star means the world — thank you for visiting!*
 
-*⭐ If you find my work interesting, consider giving a star — it means a lot!*
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alwaysalearner1234)
 
 </div>
